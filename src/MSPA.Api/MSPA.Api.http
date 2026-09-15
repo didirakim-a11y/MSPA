@@ -1,0 +1,6 @@
+@MSPA.Api_HostAddress = http://localhost:5186
+
+GET {{MSPA.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
